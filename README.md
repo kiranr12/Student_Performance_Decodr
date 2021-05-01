@@ -6,7 +6,7 @@ Important Files:
 student-mat.csv : Student dataset for Maths subject
 
 Methods and Tools:
-Python
-numpy
-pandas
+Python,
+numpy,
+pandas,
 seaborn
